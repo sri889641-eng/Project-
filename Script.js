@@ -10,7 +10,8 @@ const routes = {
     `,
     contact: `
       <h2>Contact Us</h2>
-      <p>Email: contact@example.com</p>
+      <p>Email: sri889641@gmail.com</p>
+      <p>Contact: 7639074693<p>
     `
   };
   
@@ -26,4 +27,5 @@ const routes = {
   
   // Load default page on startup
   window.addEventListener('load', loadPage);
+
   
