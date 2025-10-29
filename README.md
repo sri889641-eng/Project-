@@ -72,6 +72,7 @@ A typical SPA includes:
 | **Drawbacks**  | SEO, initial load size, and complexity                     |
 | **Use Cases**  | Dashboards, social networks, email clients, project tools  |
 
-Github repository link:
+Github repository link:https://github.com/sri889641-eng/Project-.git
+Live deployment link:
 
 Would you like me to include this in a **short PowerPoint-style summary (slides format)** or a **write-up for a report (paragraph form)**?
